@@ -10,6 +10,7 @@ Create and launch Cabin Spark Mobile Car Detailing Houston as site 34 of the 100
 - Market: Houston, Texas
 - Registered domain: `cabinspark.shop`
 - Public phone: `+1 832-242-9380`
+- Street address: `2109 Hwy 6, Sugar Land, TX 77478`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - GitHub: https://github.com/DaInfernalCoder/cabin-spark-mobile-car-detailing-houston
@@ -21,7 +22,7 @@ Create and launch Cabin Spark Mobile Car Detailing Houston as site 34 of the 100
 
 ## Truth constraints
 
-The public phone is confirmed. The street address has not been supplied; do not invent it. Licensed stock imagery is illustrative and must not be presented as completed Cabin Spark work.
+The public phone is confirmed. The street address is confirmed as supplied by the owner. Licensed stock imagery is illustrative and must not be presented as completed Cabin Spark work.
 
 ## Acceptance checklist
 
@@ -32,9 +33,9 @@ The public phone is confirmed. The street address has not been supplied; do not 
 - [x] Public GitHub repository and Vercel production project created
 - [x] Apex and `www` attached; registrar DNS saved and HTTPS verified
 - [x] Phone supplied and call links completed
-- [ ] Address supplied and final `GMB-INFO.txt` completed
+- [x] Address supplied and final `GMB-INFO.txt` completed
 - [x] Phone/address-independent logo and photo pack completed
-- [ ] GeoStamp synced
+- [x] GeoStamp synced
 
 ## Draft GBP description
 
@@ -42,8 +43,8 @@ Cabin Spark Mobile Car Detailing Houston helps Houston drivers arrange careful i
 
 ## Blocker
 
-The confirmed street address is required for final `GMB-INFO.txt` and GeoStamp completion.
+None. GeoStamp sync remains outstanding.
 
 ## Exact next action
 
-Await the confirmed street address, then complete `GMB-INFO.txt` and GeoStamp.
+Run GeoStamp sync so `_GMB Operations/geotag-tool/addresses.json` picks up the confirmed address.
