@@ -43,8 +43,8 @@ Cabin Spark Mobile Car Detailing Houston helps Houston drivers arrange careful i
 
 ## Blocker
 
-None. GeoStamp sync remains outstanding.
+None.
 
 ## Exact next action
 
-Run GeoStamp sync so `_GMB Operations/geotag-tool/addresses.json` picks up the confirmed address.
+Create the Google Business Profile using the completed `GMB-INFO.txt` and asset pack.
