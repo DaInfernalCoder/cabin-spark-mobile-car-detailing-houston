@@ -14,3 +14,14 @@
 - Service: Appointment-based mobile car detailing
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Google review profile: https://g.page/r/CcoOFsi0FSebEBM/review
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://cabinspark.shop/services/)
+- [Interior Car Detailing](https://cabinspark.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://cabinspark.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://cabinspark.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://cabinspark.shop/services/headlight-restoration/)
+- [About](https://cabinspark.shop/about/)
+- [Contact](https://cabinspark.shop/contact/)
+<!-- SEO-NEXT:END -->
