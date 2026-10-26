@@ -13,4 +13,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://cabinspark.shop/sitemap.xml
+Sitemap: https://sugarlandcardetailingtx.shop/sitemap.xml

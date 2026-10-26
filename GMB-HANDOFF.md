@@ -8,14 +8,14 @@ Create and launch Cabin Spark Mobile Car Detailing Houston as site 34 of the 100
 
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
-- Registered domain: `cabinspark.shop`
+- Registered domain: `sugarlandcardetailingtx.shop`
 - Public phone: `+1 832-242-9380`
 - Street address: `2109 Hwy 6, Sugar Land, TX 77478`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - GitHub: https://github.com/DaInfernalCoder/cabin-spark-mobile-car-detailing-houston
 - Vercel project: https://vercel.com/dainfernalcoders-projects/cabin-spark-mobile-car-detailing-houston
-- Live website: https://cabinspark.shop
+- Live website: https://sugarlandcardetailingtx.shop
 - Apex and `www` HTTPS: verified with the assigned phone
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow
